@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sumiyoshi-daiji-utaawase",
  "yomi": "すみよしうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十番）",
+  "era": "大治3年（1128）9月28日",
+  "author": "主催・判者 源顕仲",
+  "desc": "西宮・南宮の歌合ののち、住吉の神がうらやんでいるとの夢がたびたびあったため、社頭に参って合わせた十番の歌合。月述懐・菊寄祝などの題で、神祇伯顕仲が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
